@@ -1,0 +1,9 @@
+Sürüm Takip 0.9.1 Android preflight
+- 72/72 tests passed before packaging.
+- Python compileall passed.
+- Restored splash.png as presplash.
+- Restored source.dir-qualified p4a hook path.
+- Restored pinned Buildozer revision used by the known-good Android build.
+- Restored Android/OpenSSL ALPN fallback.
+- Restored ReminderReceiver exported setting used by the known-good manifest.
+- Restored Android manifest/image/source preflight checks and Gradle cache in GitHub Actions.
